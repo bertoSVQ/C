@@ -1,6 +1,3 @@
 # EPD11
 EPD11 Repaso C
-
-Esto es una edicion del readme origianl.
-blablabla
-...
+Falta completar: E7 y E8
